@@ -1,7 +1,7 @@
 Hi! I'm Notsink
 
 # 💫 About Me:
-🔭 I'm making some tools/ instrument's on python <br>🍁 I'm Alex<br>🌾 I'm from Ukraine 🇺🇦
+🔭 I'm making some tools / instrument's on python <br>🍁 I'm Alex<br>🌾 I'm from Ukraine 🇺🇦
 
 
 ## 🌐 Socials:
