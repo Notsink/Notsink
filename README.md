@@ -2,6 +2,7 @@ Hi! I'm Notsink
 
 # 💫 About Me:
 🍁 I'm making some tools / instrument's on python <br>
+⭐ My latest project - https://github.com/Notsink/ZeroSweep
 
 
 ## 🌐 Socials:
